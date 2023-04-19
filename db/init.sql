@@ -26,7 +26,7 @@ CREATE TABLE productos(
 
 insert into usuarios values("Vanessa", "vanessa@gmail.com", "Nessa", "123456", False);
 insert into usuarios values("Paola", "paola@gmail.com", "Pao", "123456", True);
-insert into productos values(null, "Pollo Asado", 10000, 59);
-insert into productos values(null, "Celular", 8000, 296);
-insert into productos values(null, "Laptop", 6500, 485);
+insert into productos values(null, "Pollo Asado", 10000, 50);
+insert into productos values(null, "Arepa de choclo", 3500, 29);
+insert into productos values(null, "Gaseosa", 2500, 85);
 
